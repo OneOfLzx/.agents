@@ -6,7 +6,7 @@
 
 ## Phase 1：设计测试 Case
 
-根据模块设计编写单元测试 Case，并落地为 Markdown 文档。详细说明每个 Case 的测试内容和测试流程。
+根据模块设计编写单元测试 Case，并落地为 Markdown 文档。详细说明每个 Case 的测试内容、测试流程以及预期结果。
 
 ## Phase 2：Review 测试文档
 
