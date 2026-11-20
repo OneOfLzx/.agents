@@ -1,1 +1,19 @@
-lark*/
+# Local installation state (not personal source).
+/.skill-lock.json
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Skills are opt-in: keep external/plugin skills locally, out of Git.
+# To track a personal skill, add !/skills/<directory>/ below.
+/skills/*
+!/skills/.gitignore
+!/skills/clarify-requirements/
+!/skills/codebase-deep-understanding/
+!/skills/manage_skills_soft_link.py
+!/skills/modify-module/
+!/skills/paper-analysis/
+!/skills/review/
+!/skills/software-module-design/
+!/skills/technical-design-document/
+!/skills/test-case/
